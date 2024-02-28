@@ -1,0 +1,6 @@
+@PokemonTeamBuilder.Server_HostAddress = http://localhost:5022
+
+GET {{PokemonTeamBuilder.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
